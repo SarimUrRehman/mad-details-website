@@ -1,0 +1,8 @@
+{
+  "name": "Mad Detailing – Car Detailing in Canberra, ACT",
+  "description": "Professional car detailing in Canberra, ACT with great attention to detail and showroom-quality results. 5.0-star rated local detailing specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
